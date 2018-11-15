@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/MainWindow.xaml))
+<!-- default file list end -->
 # WPF MapControl Getting Started - Lesson 2 - Load Shapes Data from a Shapefile
 
 
